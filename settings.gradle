@@ -1,0 +1,2 @@
+include ':app', ':robot-core'
+rootProject.name='Robot'
